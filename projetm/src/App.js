@@ -9,21 +9,6 @@ function App() {
       </header>
     </div>
   );
-//   -- Création de la table "bac"
-// CREATE TABLE bac (
-//     id INT AUTO_INCREMENT PRIMARY KEY,
-//     nom VARCHAR(255) NOT NULL
-// );
 
-// -- Création de la table "produit"
-// CREATE TABLE produit (
-//     id INT AUTO_INCREMENT PRIMARY KEY,
-//     nom VARCHAR(255) NOT NULL,
-//     image MEDIUMBLOB,
-//     bac_id INT,
-//     FOREIGN KEY (bac_id) REFERENCES bac(id)
-// );
-
-// }
 
 export default App;
