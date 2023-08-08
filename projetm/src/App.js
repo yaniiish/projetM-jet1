@@ -23,7 +23,7 @@ function App() {
       </header>
       <div id='data'>
           {data.map((d, i) => (
-              <div key={i} className='mb-8 mt-8 text-center w-40 rounded overflow-hidden shadow-lg'>
+              <div key={i} className='mb-8 m-auto mt-8 text-center w-40 rounded overflow-hidden shadow-lg'>
                 <div>{d.nom}</div>
                 <div>{d.bac_id}</div>
               </div>            

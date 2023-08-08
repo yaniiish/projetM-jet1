@@ -1,13 +1,12 @@
- CREATE TABLE bac (
+CREATE TABLE bac (
     id INT AUTO_INCREMENT PRIMARY KEY,
-     nom VARCHAR(255) NOT NULL
- );
+    nom VARCHAR(255) NOT NULL
+);
 
- CREATE TABLE produit (
-     id INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE produit (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(255) NOT NULL,
     image MEDIUMBLOB,
-    bac_id INT,
-    FOREIGN KEY (bac_id) REFERENCES bac(id)
- );
-
+    bac_nom VARCHAR(255),
+    FOREIGN KEY (bac_nom) REFERENCES bac(nom)
+);
