@@ -7,6 +7,5 @@ CREATE TABLE produit (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(255) NOT NULL,
     image MEDIUMBLOB,
-    bac_nom VARCHAR(255),
-    FOREIGN KEY (bac_nom) REFERENCES bac(nom)
+    bac_nom VARCHAR(255)
 );
