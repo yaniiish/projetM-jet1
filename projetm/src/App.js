@@ -21,11 +21,14 @@ function App() {
         <h1 className='text-3xl font-bold underline mb-8'>Projet M</h1>
         <input className="placeholder:italic placeholder:text-slate-400 block bg-white w-1/3 border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm" placeholder="Produits à recherché" type="text" name="recherche"/>
       </header>
+      <div id="ajout">
+
+      </div>
       <div id='data'>
           {data.map((d, i) => (
               <div key={i} className='mb-8 m-auto mt-8 text-center w-40 rounded overflow-hidden shadow-lg'>
                 <div>{d.nom}</div>
-                <div>{d.bac_id}</div>
+                <div>{d.bac_nom}</div>
               </div>            
           ))}
       </div>

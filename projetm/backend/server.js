@@ -12,6 +12,7 @@ const db = mysql.createConnection({
     database: 'projetm'
 })
 
+
 app.get('/', (re, res)=>{
     return res.json("from backend side");
 })
@@ -24,6 +25,8 @@ app.get('/produit', (req, res)=> {
     })
 })
 
+
+  
 app.listen(8081, ()=>{
     console.log("listening");
 })
