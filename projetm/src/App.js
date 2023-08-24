@@ -5,14 +5,6 @@ import React, {useEffect, useState} from 'react';
 
 function App() {
 
-  const [data, setData] = useState([]);
-
-  useEffect(()=> {
-    fetch("http://localhost:8081/produit")
-    .then(res => res.json())
-    .then(data => setData(data))
-    .catch(err => console.log(err));
-  }, [])
 
 
   return (
@@ -24,14 +16,7 @@ function App() {
       <div id="ajout">
 
       </div>
-      <div id='data'>
-          {data.map((d, i) => (
-              <div key={i} className='mb-8 m-auto mt-8 text-center w-40 rounded overflow-hidden shadow-lg'>
-                <div>{d.nom}</div>
-                <div>{d.bac_nom}</div>
-              </div>            
-          ))}
-      </div>
+   
     </div>
   );
 
