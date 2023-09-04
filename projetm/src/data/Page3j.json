@@ -1,0 +1,205 @@
+[
+  {
+    "Bac de tri": "Comburants - EcoDDS vides ou non vides",
+    "Produits": "Oxygène actif pour piscine (désinfectant)",
+    "EcoDDS ?": "Solide Si ≤ 5kg\nLiquide ≤ 20 L",
+    "Consigne ou danger particulier": "A base de peroxyde d'hydrogene. Sauf biocides avec mention d'usage \"reservé aux professionnels",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants - EcoDDS vides ou non vides",
+    "Produits": "Pisicine : produits de désinfection des pisicines des particuliers (comburant): Chlore solide, galets, oxygène actif",
+    "EcoDDS ?": "Liquide ≤ 20 L\nSolide chlore pur ≤ 10 kg\nSolide autre ≤  5 kg",
+    "Consigne ou danger particulier": "Vide et non-vide. Sauf produits biocides avec mention d'usage \"reservé aux professionnels",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants - EcoDDS vides ou non vides",
+    "Produits": "Rattrapage eaux vertes pour piscine",
+    "EcoDDS ?": "Si ≤ 20 L",
+    "Consigne ou danger particulier": "A base de peroxyde d'hydrogene. Sauf biocides avec mention d'usage \"reservé aux professionnels",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Anti-taupes explosif",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Carbure de calcium",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Attention très réactif à l'eau, la chaleur...",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Engrais comburant (non destiné aux jardins des particuliers)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Fumigène anti taupe (comburant",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Peroxyde d'hydrogène pour blanchisserie",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Peroxyde organiques de laboratoire",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Attention très réactif à l'eau, la chaleur...",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Produit biocide ou virucide professionnel avec 'Usage réservé aux professionnels\" (piscine publiques, services techniques, associations, clubs sportifs)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "> 20L si liquide\n> 5kg solide\n> 10kg chlore solide",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Produit non identifié, sans étiquette",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Aérosols à fonction extinctrice",
+    "EcoDDS ?": "≤ 1 L / 1 kg",
+    "Consigne ou danger particulier": "Juste les aérosols = interdit les extincteurs",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Anti-acariens, -araignées, -blattes, -cafards, -fourmis, -guêpes, -mites, -moustiques, -punaises, -puces, -tiques...pour la maison en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Anti-goudron, dégoudronnant en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Anti-parasitaires pour la maison, tapis, mobilier (puces, tiques, poux...) en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Anti-rouille aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Anti-suie sous forme aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Anti-tâche (protection imperméabilisant) tissus, cuir, daim en aérosol.",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Cire en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Colle en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Décapant en aérosol pour cheminées-inserts, appareils de cuisson, peinture, vernis etc..",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Décapant four (avec ou sans soude)",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Dégivrants véhicule en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas confondre avec la neige artificielle (hors EcoDDS)",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Dégrippant en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Désoxidant rapide (anti-rouille) en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Enduit intérieur minéraux pour murs et sols",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Galvanisant",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Imperméabilisant pour cuir, daim, textiles (vetement, tente, etc) en aérosol",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#c2b7ad"
+  },
+  {
+    "Bac de tri": "Aérosols- EcoDDS vides ou non vides",
+    "Produits": "Insectiside, anti-fourmi, anti-nuisible (sauf anti-moustique à usage corporel).",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Sauf anti-moustique à mettre sur la peau.",
+    "Couleur": "#c2b7ad"
+  }
+]

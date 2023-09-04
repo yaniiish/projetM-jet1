@@ -1,0 +1,233 @@
+[
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Acide Chlorhydrique",
+    "EcoDDS ?": "Si ≤ 20 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Acide Nitrique",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Acide Oxalique",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Acide Phosporique",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Acide Sulfamique",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Acide Sulfirique",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Anti-rouille à base d'acide (Corrosif)",
+    "EcoDDS ?": "Si ≤ 5 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Clarifiant pour piscines des particuliers",
+    "EcoDDS ?": "Liquide ≤ 5L\nSolide ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Déboucheur acide de canalisation",
+    "EcoDDS ?": "Si ≤  2 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Dégriseur pour bois (traitement du bois Acide)",
+    "EcoDDS ?": "Si ≤ 25 L/30 kg",
+    "Consigne ou danger particulier": "Pictogramme corrosif. Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Eclaircisseur (produit de traitement du bois Acide)",
+    "EcoDDS ?": "Si ≤ 25 L/30 kg",
+    "Consigne ou danger particulier": "Pictogramme corrosif. Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Floculant pour traitement des piscines",
+    "EcoDDS ?": "Liquide ≤ 5L\nSolide ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "pH Moins (régulateur de pH)",
+    "EcoDDS ?": "Liquide ≤ 5L\nSolide ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Shampooing pour ciment",
+    "EcoDDS ?": "Si ≤ 25 L/30 kg",
+    "Consigne ou danger particulier": "Pictogramme corrosif. Ne pas mélanger acides et bases",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - EcoDDS vides ou non vides",
+    "Produits": "Stabilisant piscine (acide isocyanurique)",
+    "EcoDDS ?": "Liquide ≤ 5L\nSolide ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Acide Fluorhydrique",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Extrêment dangereux, à isoler",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Acide Tartrique",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides Non Accepté en déchetterie",
+    "Produits": "Acide Picrique",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Explosif : non accepté en déchetterie",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Anti-calcaire, détartrant",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Détartrant (salle de bain, radiateur, voiture...)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Détartrant cafetière, fer à repasser...",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Détartrant, nettoyant piscine",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Fixateur Photo",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Différent du Révélateur Photo",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Nettoyant-détartrant ligne d'eau ou filtre piscine",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Acides - Hors EcoDDS",
+    "Produits": "Piscine : nettoyant ligne d'eau, détartrant, tester pH",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Ammoniaque",
+    "EcoDDS ?": "Si ≤ 6 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Anti-suie liquide =si nettoyant insert",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Chlore liquide pour piscine (hors usage réservé aux professionnels)",
+    "EcoDDS ?": "Si ≤ 20 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Déboucheur basique de canalisation",
+    "EcoDDS ?": "Si ≤ 2 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Décapant cheminée, insert et appareils de cuissson  : four, grilles de barbecue, plancha, vitrocéramique, etc. (corrosif-soude)",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Hypochlorite de sodium pour piscine des particuliers",
+    "EcoDDS ?": "Si ≤ 20 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Lessive de soude",
+    "EcoDDS ?": "Si ≤ 5 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Nettoyant chimique pour ramonage",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#0080FF"
+  }
+]

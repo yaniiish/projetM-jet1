@@ -1,0 +1,226 @@
+[
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Nettoyant et décapant cheminée, insert et appareils de cuisson : four, grtilles de barbecus, plancha, vitrocéramique, etc. (corrosif-soude)",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "pH Plus (régulateur de pH)",
+    "EcoDDS ?": "Liquide ≤ 5L\nSolide ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Produit d'entretien pour insert",
+    "EcoDDS ?": "Si ≤ 1 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Réhausseur de TAC pour piscine des particuliers",
+    "EcoDDS ?": "Liquide ≤ 5L\nSolide ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "Soude caustique, soude en paillettes, cristaux",
+    "EcoDDS ?": "Si ≤ 5 L",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Bases - EcoDDS vides ou non vides",
+    "Produits": "TAC, régulateur de TAC (produit piscine)",
+    "EcoDDS ?": "Si ≤ 5 L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#0080FF"
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Absorbeur d'humidité",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Bandelettes /testeur PH eaux de piscine",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Bicarbonate de soude",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Chlorure de calcium",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Eau de javel",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Ne pas mélanger acides et bases",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Gel WC / pastilles WC / Fosse septique",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Lessive et assouplissant liquide/poudre",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Liquide vaisselle",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Nettoyant ammoniaqué",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Nettoyant et/ou rénovateurs plastique(voituire, maison, mobilier de jardin, etc.)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Tous les nettoyants-raviveur-rénovateurs plastique sont désormais exclus",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Nettoyant pour matériel électronique (clavier d'ordinateur, écran, imprimante)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Nettoyant salle de bains",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Nettoyant sol, carrelage, surfaces, vitres...",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Révélateur photo",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Différent du Fixateur Photo",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Savon ménager ou pour atelier",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Brome en galets, granulés (avec ou sans pictogramme)",
+    "EcoDDS ?": "Si ≤ 5 kg",
+    "Consigne ou danger particulier": "Ne pas mélanger avec produits combustibles / inflammables",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Chlorate de soude (désherbant)",
+    "EcoDDS ?": "Emploi autorisé dans les jardins",
+    "Consigne ou danger particulier": "Ne pas mélanger avec produits combustibles / inflammables. Attention souvant fuyant, à mettre dans un sac plastique",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Chlore en galets, granulés (avec ou sans pictogramme)",
+    "EcoDDS ?": "Si ≤ 10 kg",
+    "Consigne ou danger particulier": "Ne pas mélanger avec produits combustibles / inflammables",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "DDS avec pictogramme Comburant ou destiné au bac de tri Comburant",
+    "EcoDDS ?": "DDS comburants",
+    "Consigne ou danger particulier": "Produit comburant vide qui correspond à la liste EcoDDS uniquement. A mettre avec les produits comburants",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Durcisseurs pour résine et mastic avec le pictogramme Comburant",
+    "EcoDDS ?": "Accompagnant une résine ≤ 1,35 kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Eau oxygénée pour le bricolage",
+    "EcoDDS ?": "Si ≤ 5 L",
+    "Consigne ou danger particulier": "Ne pas mélanger avec produits combustibles / inflammables",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Emballages de DDS avec pictogramme Comburant ou destiné au bac Comburant",
+    "EcoDDS ?": "DDS comburants",
+    "Consigne ou danger particulier": "Produit comburant vide qui correspond à la liste EcoDDS uniquement. A mettre avec les produits comburants",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Galets de désinfection piscine chlore pur",
+    "EcoDDS ?": "Si ≤ 10 kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Galets de désinfection piscine autre que chlore (brome, hypochlorite de calcium, oxygène actif...)",
+    "EcoDDS ?": "Si ≤ 5 kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Hypochlorite de Calcium",
+    "EcoDDS ?": "Si ≤ 5 kg",
+    "Consigne ou danger particulier": "Désinfection des piscines",
+    "Couleur": "#ff8000"
+  },
+  {
+    "Bac de tri": "Comburants- EcoDDS vides ou non vides",
+    "Produits": "Mastic vitrier avec pictogramme comburant",
+    "EcoDDS ?": "Si ≤ 5 kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ff8000"
+  }
+]
