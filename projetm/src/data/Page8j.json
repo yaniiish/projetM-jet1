@@ -1,0 +1,198 @@
+[
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "EVS Emballages vides souillés de produits\nNON-EcoDDS : Non désigné dans la filière\nSANS étiquettes, ou ne répond pas aux critères de seuil EcoDDS",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Exemples : matériels souillés de peintre,\nbidons de nettoyants ménagers, bidon d'huile\nmoteur, bidon d'eau déminéralisée",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Ethylotest",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Jerrican sans étiquette",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Nettoyants ménagers : lave-vitre, nettoyants sols/carrelages, moquettes\nlessives, adoucissants, savons...",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Produits biocides ou virucide professionnel avec \"usage réservé aux professionnels",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "ILLISIBLE",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Produit phytopharmaceutique professionnel ou avec logo Adivalor",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Produit avec AMM sans mention \"emploi autorisé dans les jardins",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Filtres - EcoDDS",
+    "Produits": "Filtres à huile et à carburants pour voitures",
+    "EcoDDS ?": "",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#ECBC55"
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Filtre à air",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Filtres - Hors EcoDDS",
+    "Produits": "Filtres à huile et à carburants pour PL, tondeuses, tracteurs, bâteaux",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Allume-feu solide",
+    "EcoDDS ?": "Si ≤ 1kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Anti-suie liquide = si produit de ramonage",
+    "EcoDDS ?": "Si ≤ 1,5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Badigeon à la chaux",
+    "EcoDDS ?": "Si ≤ 25kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Bûche de ramonage",
+    "EcoDDS ?": "Si ≤ 1,5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Cartouche scellement chimique",
+    "EcoDDS ?": "Si ≤ 5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Cires",
+    "EcoDDS ?": "Si ≤ 25L / 30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Colle carrelage (pâte ou poudre)",
+    "EcoDDS ?": "Si ≤ 25kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Colle de bricolage : acqueuse, solvantée, réactive",
+    "EcoDDS ?": "Si acqueuse ≤ 5kg\nSi solvanté ≤  1kg\nSi réactive ≤  0,5kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Colle murs et sols (pâte ou poudre)",
+    "EcoDDS ?": "Si ≤ 25kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Colle multi-usages / fixation ou petite fixation décorative, sans solvant",
+    "EcoDDS ?": "Si ≤ 80g",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Colorant pour peinture et endui décoratif",
+    "EcoDDS ?": "Si ≤ 0,5L",
+    "Consigne ou danger particulier": "Hors produit pour machine à teinter. A ne pas confondre avec de \ngouache dans certains cas.",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Crépi intérieur et/ou extérieur",
+    "EcoDDS ?": "Si ≤ 25L / 30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Durcisseurs sans pictogramme comburant",
+    "EcoDDS ?": "Accompagnant une résine ≤ 1,35kg",
+    "Consigne ou danger particulier": "Classement différent selon les durcisseurs - souvent pictogramme\ncomburant",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Encaustiques, protection / traitement du bois",
+    "EcoDDS ?": "Si ≤ 25L / 30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Enduits intérieurs/extérieurs minéraux et organiques pour murs et sols (pâte ou poudre)",
+    "EcoDDS ?": "Si ≤ 25kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Enduits intérieurs/extérieurs minéraux et organiques à projeter",
+    "EcoDDS ?": "Si ≤ 25kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Enduit pour meubles",
+    "EcoDDS ?": "Si ≤ 25kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Epoxy-résine de scellement chimique",
+    "EcoDDS ?": "Si ≤ 25L / 30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Fixateur toitures et façades",
+    "EcoDDS ?": "Si ≤ 25L / 30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  }
+]

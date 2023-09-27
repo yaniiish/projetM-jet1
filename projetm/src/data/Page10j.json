@@ -1,0 +1,289 @@
+[
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Vernis pâteux",
+    "EcoDDS ?": "Si ≤  25L/30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Pâteux - EcoDDS vides ou non vides",
+    "Produits": "Vitrificateur pâteux",
+    "EcoDDS ?": "Si ≤  25L/30kg",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#5B688C"
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Amidon pour repassage",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "",
+    "Produits": "Additifs et dérivés des mortiers",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Béton et ses dérivés, additifs",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Bitume et ses dérivés, additifs",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Cartouche filtrante our traitement de l'eau",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Cartouche imprimante, toner",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Ciment et ses dérivés, additifs",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Cirage chaussures",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Colorant pour béton et mortier",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Crème à récurer",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Crèmes, savons, shampoings",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Cyanure",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Ne pas respirer !!\nRéactif à l'eau et à la chaleur",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Encre en cartouche, encre loisir",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Gouache (peinture scolaire / loisir)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Graisses (hors paraffine et vaseline)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Hydrofuge-oléofuge de masse \npour mortier / béton",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Joint moteur automobile",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Joint de plomberie (hors enduit et mastic)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Marqueur routier (peinture pistolable\nuniquement)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Matériel souillé du peintre (chiffons, seaux, \npinceaux, verrerie souillée)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Pastilles pour fosses septique",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Pastille pour le linge",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Peinture industrielle",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Peinture loisir, art : gouache aquarelle",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Phosphore",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Attention, très réactif à l'eau et a la chaleur",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Plâtres et ses dérivés, additifs",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Poudre à récurer",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Poudre aluminium",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "Attention, très réactif à la chaleur et aux\nfrottements",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Primaire anti-rouille pour matériel de chantier,\nmatériel agricole ou industriel",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Résine pour sols industriels (entrepôt, \natelier, hall d'exposition...)",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Hors EcoDDS",
+    "Produits": "Teinture vêtements",
+    "EcoDDS ?": "NON",
+    "Consigne ou danger particulier": "",
+    "Couleur": ""
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Algicide pour piscine des particuliers",
+    "EcoDDS ?": "Si ≤  20L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#528749"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-acariens, araignées, blattes, cafards,\nfourmis, guêpes, mîtes, moustiques, \npunaises, puces, tiques... pour la maison\nliquide / solide / spray",
+    "EcoDDS ?": "Solide ≤  1,5L\nLiquide ≤ 1L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#528750"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-germe pommes de terre",
+    "EcoDDS ?": "emploi autorisé\ndans les jardins",
+    "Consigne ou danger particulier": "Produit portant la mention \"emploi autorisé\ndans les jardins\", pas de seuil",
+    "Couleur": "#528751"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-limaces et escargots, anti-pucerons",
+    "EcoDDS ?": "emploi autorisé\ndans les jardins",
+    "Consigne ou danger particulier": "Produit portant la mention \"emploi autorisé\ndans les jardins\", pas de seuil",
+    "Couleur": "#528752"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-moisissures",
+    "EcoDDS ?": "Si ≤  25L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#528753"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-mousse, algues lichens liquide",
+    "EcoDDS ?": "Si ≤  25L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#528754"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-moustique pour la maison, les tissus,\nsolide / spray / recharges liquides",
+    "EcoDDS ?": "Solide ≤  1,5L\nLiquide ≤ 1L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#528755"
+  },
+  {
+    "Bac de tri": "Phytos et biocides - EcoDDS vides ou non vides",
+    "Produits": "Anti-parasitaire pour la maison, tapis, mobilier,\n(puces, tiques, poux...)",
+    "EcoDDS ?": "Solide ≤  1,5L\nLiquide ≤ 1L",
+    "Consigne ou danger particulier": "",
+    "Couleur": "#528756"
+  }
+]
