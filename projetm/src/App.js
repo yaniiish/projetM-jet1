@@ -24,6 +24,7 @@ function App() {
   const [filteredData, setFilteredData] = useState([]);
   const [sortOrder, setSortOrder] = useState('asc');
 
+
   // Vos données data1 et data2
 
   // Fonction pour mettre à jour la valeur de la barre de recherche
