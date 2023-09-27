@@ -12,13 +12,6 @@ import data9 from "./data/Page9j.json";
 import data10 from "./data/Page10j.json";
 
 
-
-
-
-
-
-
-
 function App() {
   const [searchValue, setSearchValue] = useState('');
   const [filteredData, setFilteredData] = useState([]);
