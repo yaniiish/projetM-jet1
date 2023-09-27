@@ -58,6 +58,10 @@ function App() {
     }
   }, [searchValue, sortOrder]);
 
+  const toggleSortOrder = () => {
+    setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+  };
+  
   return (
     <div className="App bg-slate-500 min-h-screen">
       <header className='flex justify-center mb-10 items-center	flex-col sticky top-0'>
@@ -68,6 +72,9 @@ function App() {
         onChange={handleSearchChange}
         name="recherche"
         />
+        <button onClick={toggleSortOrder}>
+  Changer l'ordre de tri ({sortOrder === 'asc' ? 'ascendant' : 'descendant'})
+</button>
       </header>
 
       <div className="container mx-auto">
